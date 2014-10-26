@@ -1,0 +1,4 @@
+nginx:
+    image: petitchevalroux/nginx-php:1.7
+    ports:
+        - 8080:80
